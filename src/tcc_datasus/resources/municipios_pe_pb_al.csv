@@ -1,0 +1,511 @@
+codigo_ibge,uf,nome
+2500106,PB,Água Branca
+2500205,PB,Aguiar
+2500304,PB,Alagoa Grande
+2500403,PB,Alagoa Nova
+2500502,PB,Alagoinha
+2500536,PB,Alcantil
+2500577,PB,Algodão de Jandaíra
+2500601,PB,Alhandra
+2500700,PB,São João do Rio do Peixe
+2500734,PB,Amparo
+2500775,PB,Aparecida
+2500809,PB,Araçagi
+2500908,PB,Arara
+2501005,PB,Araruna
+2501104,PB,Areia
+2501153,PB,Areia de Baraúnas
+2501203,PB,Areial
+2501302,PB,Aroeiras
+2501351,PB,Assunção
+2501401,PB,Baía da Traição
+2501500,PB,Bananeiras
+2501534,PB,Baraúna
+2501575,PB,Barra de Santana
+2501609,PB,Barra de Santa Rosa
+2501708,PB,Barra de São Miguel
+2501807,PB,Bayeux
+2501906,PB,Belém
+2502003,PB,Belém do Brejo do Cruz
+2502052,PB,Bernardino Batista
+2502102,PB,Boa Ventura
+2502151,PB,Boa Vista
+2502201,PB,Bom Jesus
+2502300,PB,Bom Sucesso
+2502409,PB,Bonito de Santa Fé
+2502508,PB,Boqueirão
+2502607,PB,Igaracy
+2502706,PB,Borborema
+2502805,PB,Brejo do Cruz
+2502904,PB,Brejo dos Santos
+2503001,PB,Caaporã
+2503100,PB,Cabaceiras
+2503209,PB,Cabedelo
+2503308,PB,Cachoeira dos Índios
+2503407,PB,Cacimba de Areia
+2503506,PB,Cacimba de Dentro
+2503555,PB,Cacimbas
+2503605,PB,Caiçara
+2503704,PB,Cajazeiras
+2503753,PB,Cajazeirinhas
+2503803,PB,Caldas Brandão
+2503902,PB,Camalaú
+2504009,PB,Campina Grande
+2504033,PB,Capim
+2504074,PB,Caraúbas
+2504108,PB,Carrapateira
+2504157,PB,Casserengue
+2504207,PB,Catingueira
+2504306,PB,Catolé do Rocha
+2504355,PB,Caturité
+2504405,PB,Conceição
+2504504,PB,Condado
+2504603,PB,Conde
+2504702,PB,Congo
+2504801,PB,Coremas
+2504850,PB,Coxixola
+2504900,PB,Cruz do Espírito Santo
+2505006,PB,Cubati
+2505105,PB,Cuité
+2505204,PB,Cuitegi
+2505238,PB,Cuité de Mamanguape
+2505279,PB,Curral de Cima
+2505303,PB,Curral Velho
+2505352,PB,Damião
+2505402,PB,Desterro
+2505501,PB,Vista Serrana
+2505600,PB,Diamante
+2505709,PB,Dona Inês
+2505808,PB,Duas Estradas
+2505907,PB,Emas
+2506004,PB,Esperança
+2506103,PB,Fagundes
+2506202,PB,Frei Martinho
+2506251,PB,Gado Bravo
+2506301,PB,Guarabira
+2506400,PB,Gurinhém
+2506509,PB,Gurjão
+2506608,PB,Ibiara
+2506707,PB,Imaculada
+2506806,PB,Ingá
+2506905,PB,Itabaiana
+2507002,PB,Itaporanga
+2507101,PB,Itapororoca
+2507200,PB,Itatuba
+2507309,PB,Jacaraú
+2507408,PB,Jericó
+2507507,PB,João Pessoa
+2507606,PB,Juarez Távora
+2507705,PB,Juazeirinho
+2507804,PB,Junco do Seridó
+2507903,PB,Juripiranga
+2508000,PB,Juru
+2508109,PB,Lagoa
+2508208,PB,Lagoa de Dentro
+2508307,PB,Lagoa Seca
+2508406,PB,Lastro
+2508505,PB,Livramento
+2508554,PB,Logradouro
+2508604,PB,Lucena
+2508703,PB,Mãe d'Água
+2508802,PB,Malta
+2508901,PB,Mamanguape
+2509008,PB,Manaíra
+2509057,PB,Marcação
+2509107,PB,Mari
+2509156,PB,Marizópolis
+2509206,PB,Massaranduba
+2509305,PB,Mataraca
+2509339,PB,Matinhas
+2509370,PB,Mato Grosso
+2509396,PB,Maturéia
+2509404,PB,Mogeiro
+2509503,PB,Montadas
+2509602,PB,Monte Horebe
+2509701,PB,Monteiro
+2509800,PB,Mulungu
+2509909,PB,Natuba
+2510006,PB,Nazarezinho
+2510105,PB,Nova Floresta
+2510204,PB,Nova Olinda
+2510303,PB,Nova Palmeira
+2510402,PB,Olho d'Água
+2510501,PB,Olivedos
+2510600,PB,Ouro Velho
+2510659,PB,Parari
+2510709,PB,Passagem
+2510808,PB,Patos
+2510907,PB,Paulista
+2511004,PB,Pedra Branca
+2511103,PB,Pedra Lavrada
+2511202,PB,Pedras de Fogo
+2511301,PB,Piancó
+2511400,PB,Picuí
+2511509,PB,Pilar
+2511608,PB,Pilões
+2511707,PB,Pilõezinhos
+2511806,PB,Pirpirituba
+2511905,PB,Pitimbu
+2512002,PB,Pocinhos
+2512036,PB,Poço Dantas
+2512077,PB,Poço de José de Moura
+2512101,PB,Pombal
+2512200,PB,Prata
+2512309,PB,Princesa Isabel
+2512408,PB,Puxinanã
+2512507,PB,Queimadas
+2512606,PB,Quixaba
+2512705,PB,Remígio
+2512721,PB,Pedro Régis
+2512747,PB,Riachão
+2512754,PB,Riachão do Bacamarte
+2512762,PB,Riachão do Poço
+2512788,PB,Riacho de Santo Antônio
+2512804,PB,Riacho dos Cavalos
+2512903,PB,Rio Tinto
+2513000,PB,Salgadinho
+2513109,PB,Salgado de São Félix
+2513158,PB,Santa Cecília
+2513208,PB,Santa Cruz
+2513307,PB,Santa Helena
+2513356,PB,Santa Inês
+2513406,PB,Santa Luzia
+2513505,PB,Santana de Mangueira
+2513604,PB,Santana dos Garrotes
+2513653,PB,Joca Claudino
+2513703,PB,Santa Rita
+2513802,PB,Santa Teresinha
+2513851,PB,Santo André
+2513901,PB,São Bento
+2513927,PB,São Bentinho
+2513943,PB,São Domingos do Cariri
+2513968,PB,São Domingos
+2513984,PB,São Francisco
+2514008,PB,São João do Cariri
+2514107,PB,São João do Tigre
+2514206,PB,São José da Lagoa Tapada
+2514305,PB,São José de Caiana
+2514404,PB,São José de Espinharas
+2514453,PB,São José dos Ramos
+2514503,PB,São José de Piranhas
+2514552,PB,São José de Princesa
+2514602,PB,São José do Bonfim
+2514651,PB,São José do Brejo do Cruz
+2514701,PB,São José do Sabugi
+2514800,PB,São José dos Cordeiros
+2514909,PB,São Mamede
+2515005,PB,São Miguel de Taipu
+2515104,PB,São Sebastião de Lagoa de Roça
+2515203,PB,São Sebastião do Umbuzeiro
+2515302,PB,Sapé
+2515401,PB,São Vicente do Seridó
+2515500,PB,Serra Branca
+2515609,PB,Serra da Raiz
+2515708,PB,Serra Grande
+2515807,PB,Serra Redonda
+2515906,PB,Serraria
+2515930,PB,Sertãozinho
+2515971,PB,Sobrado
+2516003,PB,Solânea
+2516102,PB,Soledade
+2516151,PB,Sossêgo
+2516201,PB,Sousa
+2516300,PB,Sumé
+2516409,PB,Tacima
+2516508,PB,Taperoá
+2516607,PB,Tavares
+2516706,PB,Teixeira
+2516755,PB,Tenório
+2516805,PB,Triunfo
+2516904,PB,Uiraúna
+2517001,PB,Umbuzeiro
+2517100,PB,Várzea
+2517209,PB,Vieirópolis
+2517407,PB,Zabelê
+2600054,PE,Abreu e Lima
+2600104,PE,Afogados da Ingazeira
+2600203,PE,Afrânio
+2600302,PE,Agrestina
+2600401,PE,Água Preta
+2600500,PE,Águas Belas
+2600609,PE,Alagoinha
+2600708,PE,Aliança
+2600807,PE,Altinho
+2600906,PE,Amaraji
+2601003,PE,Angelim
+2601052,PE,Araçoiaba
+2601102,PE,Araripina
+2601201,PE,Arcoverde
+2601300,PE,Barra de Guabiraba
+2601409,PE,Barreiros
+2601508,PE,Belém de Maria
+2601607,PE,Belém do São Francisco
+2601706,PE,Belo Jardim
+2601805,PE,Betânia
+2601904,PE,Bezerros
+2602001,PE,Bodocó
+2602100,PE,Bom Conselho
+2602209,PE,Bom Jardim
+2602308,PE,Bonito
+2602407,PE,Brejão
+2602506,PE,Brejinho
+2602605,PE,Brejo da Madre de Deus
+2602704,PE,Buenos Aires
+2602803,PE,Buíque
+2602902,PE,Cabo de Santo Agostinho
+2603009,PE,Cabrobó
+2603108,PE,Cachoeirinha
+2603207,PE,Caetés
+2603306,PE,Calçado
+2603405,PE,Calumbi
+2603454,PE,Camaragibe
+2603504,PE,Camocim de São Félix
+2603603,PE,Camutanga
+2603702,PE,Canhotinho
+2603801,PE,Capoeiras
+2603900,PE,Carnaíba
+2603926,PE,Carnaubeira da Penha
+2604007,PE,Carpina
+2604106,PE,Caruaru
+2604155,PE,Casinhas
+2604205,PE,Catende
+2604304,PE,Cedro
+2604403,PE,Chã de Alegria
+2604502,PE,Chã Grande
+2604601,PE,Condado
+2604700,PE,Correntes
+2604809,PE,Cortês
+2604908,PE,Cumaru
+2605004,PE,Cupira
+2605103,PE,Custódia
+2605152,PE,Dormentes
+2605202,PE,Escada
+2605301,PE,Exu
+2605400,PE,Feira Nova
+2605459,PE,Fernando de Noronha
+2605509,PE,Ferreiros
+2605608,PE,Flores
+2605707,PE,Floresta
+2605806,PE,Frei Miguelinho
+2605905,PE,Gameleira
+2606002,PE,Garanhuns
+2606101,PE,Glória do Goitá
+2606200,PE,Goiana
+2606309,PE,Granito
+2606408,PE,Gravatá
+2606507,PE,Iati
+2606606,PE,Ibimirim
+2606705,PE,Ibirajuba
+2606804,PE,Igarassu
+2606903,PE,Iguaracy
+2607000,PE,Inajá
+2607109,PE,Ingazeira
+2607208,PE,Ipojuca
+2607307,PE,Ipubi
+2607406,PE,Itacuruba
+2607505,PE,Itaíba
+2607604,PE,Ilha de Itamaracá
+2607653,PE,Itambé
+2607703,PE,Itapetim
+2607752,PE,Itapissuma
+2607802,PE,Itaquitinga
+2607901,PE,Jaboatão dos Guararapes
+2607950,PE,Jaqueira
+2608008,PE,Jataúba
+2608057,PE,Jatobá
+2608107,PE,João Alfredo
+2608206,PE,Joaquim Nabuco
+2608255,PE,Jucati
+2608305,PE,Jupi
+2608404,PE,Jurema
+2608453,PE,Lagoa do Carro
+2608503,PE,Lagoa de Itaenga
+2608602,PE,Lagoa do Ouro
+2608701,PE,Lagoa dos Gatos
+2608750,PE,Lagoa Grande
+2608800,PE,Lajedo
+2608909,PE,Limoeiro
+2609006,PE,Macaparana
+2609105,PE,Machados
+2609154,PE,Manari
+2609204,PE,Maraial
+2609303,PE,Mirandiba
+2609402,PE,Moreno
+2609501,PE,Nazaré da Mata
+2609600,PE,Olinda
+2609709,PE,Orobó
+2609808,PE,Orocó
+2609907,PE,Ouricuri
+2610004,PE,Palmares
+2610103,PE,Palmeirina
+2610202,PE,Panelas
+2610301,PE,Paranatama
+2610400,PE,Parnamirim
+2610509,PE,Passira
+2610608,PE,Paudalho
+2610707,PE,Paulista
+2610806,PE,Pedra
+2610905,PE,Pesqueira
+2611002,PE,Petrolândia
+2611101,PE,Petrolina
+2611200,PE,Poção
+2611309,PE,Pombos
+2611408,PE,Primavera
+2611507,PE,Quipapá
+2611533,PE,Quixaba
+2611606,PE,Recife
+2611705,PE,Riacho das Almas
+2611804,PE,Ribeirão
+2611903,PE,Rio Formoso
+2612000,PE,Sairé
+2612109,PE,Salgadinho
+2612208,PE,Salgueiro
+2612307,PE,Saloá
+2612406,PE,Sanharó
+2612455,PE,Santa Cruz
+2612471,PE,Santa Cruz da Baixa Verde
+2612505,PE,Santa Cruz do Capibaribe
+2612554,PE,Santa Filomena
+2612604,PE,Santa Maria da Boa Vista
+2612703,PE,Santa Maria do Cambucá
+2612802,PE,Santa Terezinha
+2612901,PE,São Benedito do Sul
+2613008,PE,São Bento do Una
+2613107,PE,São Caitano
+2613206,PE,São João
+2613305,PE,São Joaquim do Monte
+2613404,PE,São José da Coroa Grande
+2613503,PE,São José do Belmonte
+2613602,PE,São José do Egito
+2613701,PE,São Lourenço da Mata
+2613800,PE,São Vicente Férrer
+2613909,PE,Serra Talhada
+2614006,PE,Serrita
+2614105,PE,Sertânia
+2614204,PE,Sirinhaém
+2614303,PE,Moreilândia
+2614402,PE,Solidão
+2614501,PE,Surubim
+2614600,PE,Tabira
+2614709,PE,Tacaimbó
+2614808,PE,Tacaratu
+2614857,PE,Tamandaré
+2615003,PE,Taquaritinga do Norte
+2615102,PE,Terezinha
+2615201,PE,Terra Nova
+2615300,PE,Timbaúba
+2615409,PE,Toritama
+2615508,PE,Tracunhaém
+2615607,PE,Trindade
+2615706,PE,Triunfo
+2615805,PE,Tupanatinga
+2615904,PE,Tuparetama
+2616001,PE,Venturosa
+2616100,PE,Verdejante
+2616183,PE,Vertente do Lério
+2616209,PE,Vertentes
+2616308,PE,Vicência
+2616407,PE,Vitória de Santo Antão
+2616506,PE,Xexéu
+2700102,AL,Água Branca
+2700201,AL,Anadia
+2700300,AL,Arapiraca
+2700409,AL,Atalaia
+2700508,AL,Barra de Santo Antônio
+2700607,AL,Barra de São Miguel
+2700706,AL,Batalha
+2700805,AL,Belém
+2700904,AL,Belo Monte
+2701001,AL,Boca da Mata
+2701100,AL,Branquinha
+2701209,AL,Cacimbinhas
+2701308,AL,Cajueiro
+2701357,AL,Campestre
+2701407,AL,Campo Alegre
+2701506,AL,Campo Grande
+2701605,AL,Canapi
+2701704,AL,Capela
+2701803,AL,Carneiros
+2701902,AL,Chã Preta
+2702009,AL,Coité do Nóia
+2702108,AL,Colônia Leopoldina
+2702207,AL,Coqueiro Seco
+2702306,AL,Coruripe
+2702355,AL,Craíbas
+2702405,AL,Delmiro Gouveia
+2702504,AL,Dois Riachos
+2702553,AL,Estrela de Alagoas
+2702603,AL,Feira Grande
+2702702,AL,Feliz Deserto
+2702801,AL,Flexeiras
+2702900,AL,Girau do Ponciano
+2703007,AL,Ibateguara
+2703106,AL,Igaci
+2703205,AL,Igreja Nova
+2703304,AL,Inhapi
+2703403,AL,Jacaré dos Homens
+2703502,AL,Jacuípe
+2703601,AL,Japaratinga
+2703700,AL,Jaramataia
+2703759,AL,Jequiá da Praia
+2703809,AL,Joaquim Gomes
+2703908,AL,Jundiá
+2704005,AL,Junqueiro
+2704104,AL,Lagoa da Canoa
+2704203,AL,Limoeiro de Anadia
+2704302,AL,Maceió
+2704401,AL,Major Isidoro
+2704500,AL,Maragogi
+2704609,AL,Maravilha
+2704708,AL,Marechal Deodoro
+2704807,AL,Maribondo
+2704906,AL,Mar Vermelho
+2705002,AL,Mata Grande
+2705101,AL,Matriz de Camaragibe
+2705200,AL,Messias
+2705309,AL,Minador do Negrão
+2705408,AL,Monteirópolis
+2705507,AL,Murici
+2705606,AL,Novo Lino
+2705705,AL,Olho d'Água das Flores
+2705804,AL,Olho d'Água do Casado
+2705903,AL,Olho d'Água Grande
+2706000,AL,Olivença
+2706109,AL,Ouro Branco
+2706208,AL,Palestina
+2706307,AL,Palmeira dos Índios
+2706406,AL,Pão de Açúcar
+2706422,AL,Pariconha
+2706448,AL,Paripueira
+2706505,AL,Passo de Camaragibe
+2706604,AL,Paulo Jacinto
+2706703,AL,Penedo
+2706802,AL,Piaçabuçu
+2706901,AL,Pilar
+2707008,AL,Pindoba
+2707107,AL,Piranhas
+2707206,AL,Poço das Trincheiras
+2707305,AL,Porto Calvo
+2707404,AL,Porto de Pedras
+2707503,AL,Porto Real do Colégio
+2707602,AL,Quebrangulo
+2707701,AL,Rio Largo
+2707800,AL,Roteiro
+2707909,AL,Santa Luzia do Norte
+2708006,AL,Santana do Ipanema
+2708105,AL,Santana do Mundaú
+2708204,AL,São Brás
+2708303,AL,São José da Laje
+2708402,AL,São José da Tapera
+2708501,AL,São Luís do Quitunde
+2708600,AL,São Miguel dos Campos
+2708709,AL,São Miguel dos Milagres
+2708808,AL,São Sebastião
+2708907,AL,Satuba
+2708956,AL,Senador Rui Palmeira
+2709004,AL,Tanque d'Arca
+2709103,AL,Taquarana
+2709152,AL,Teotônio Vilela
+2709202,AL,Traipu
+2709301,AL,União dos Palmares
+2709400,AL,Viçosa

@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter (notebooks/) e pytest (tests/)
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Dados (baixados/gerados pelo pipeline, nunca versionados)
+data/
+*.dbc
+*.parquet
+
+# Modelos treinados (derivados de data/, nunca versionados)
+models/

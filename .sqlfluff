@@ -1,0 +1,14 @@
+[sqlfluff]
+dialect = duckdb
+templater = raw
+max_line_length = 100
+# capitalisation.identifiers: os nomes de coluna do SINAN (CLASSI_FIN,
+# ID_MUNICIP, SG_UF_NOT etc.) são fixos em maiúsculas pelo layout oficial
+# do DATASUS -- ver convert.py/features.py. Não são um estilo a corrigir.
+# aliasing.self_alias.column: o alias explícito em `{ano_col} AS ano`
+# (transform.aggregate_municipio_ano_lags) documenta que o nome de saída
+# é sempre "ano" mesmo que o parâmetro ano_col mude; não é redundância.
+exclude_rules = capitalisation.identifiers, aliasing.self_alias.column
+
+[sqlfluff:indentation]
+tab_space_size = 4
